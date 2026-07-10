@@ -41,6 +41,7 @@ A curated list of iPhone and iPad apps for **budgeting, expense tracking, travel
 
 Suggestions for other private, pay-once money apps are welcome — open an issue or pull request.
 
+
 ## Related lists
 
 Part of a family of curated, pay-once / privacy-first iOS app lists:
